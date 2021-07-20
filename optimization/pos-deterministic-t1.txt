@@ -1,0 +1,673 @@
+PAYOFF TABLE
+ 40613300.00   410474.00
+ 45658000.00   382352.00
+
+ Grid points
+   410474.00
+   408993.89
+   407513.79
+   406033.68
+   404553.58
+   403073.47
+   401593.37
+   400113.26
+   398633.16
+   397153.05
+   395672.95
+   394192.84
+   392712.74
+   391232.63
+   389752.53
+   388272.42
+   386792.32
+   385312.21
+   383832.11
+   382352.00
+
+Efficient solutions
+    1 40613300.00   410474.00
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       20700.00
+       Diesel      Barauni     Pokhara           700.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Pokhara          2600.00
+       Diesel      Baitalpur   Bhairahawa      14900.00
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    2 40645016.54   408993.89
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       20700.00
+       Diesel      Barauni     Pokhara           240.34
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Pokhara          3059.66
+       Diesel      Baitalpur   Bhairahawa      14440.34
+       Diesel      Mughalsarai Bhairahawa        459.66
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    3 40677069.37   407513.79
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       20475.81
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu         224.19
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      13975.81
+       Diesel      Mughalsarai Bhairahawa        924.19
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    4 40709490.73   406033.68
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       20005.93
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu         694.07
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      13505.93
+       Diesel      Mughalsarai Bhairahawa       1394.07
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    5 40741912.08   404553.58
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       19536.06
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        1163.94
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      13036.06
+       Diesel      Mughalsarai Bhairahawa       1863.94
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    6 40774333.43   403073.47
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       19066.18
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        1633.82
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      12566.18
+       Diesel      Mughalsarai Bhairahawa       2333.82
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    7 40806754.79   401593.37
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       18596.31
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        2103.69
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      12096.31
+       Diesel      Mughalsarai Bhairahawa       2803.69
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    8 40839176.14   400113.26
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       18126.43
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        2573.57
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      11626.43
+       Diesel      Mughalsarai Bhairahawa       3273.57
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+    9 40871597.49   398633.16
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       17656.56
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        3043.44
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      11156.56
+       Diesel      Mughalsarai Bhairahawa       3743.44
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2500.00
+       Petrol      Baitalpur   Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   10 40905361.23   397153.05
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       17200.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        3500.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      10700.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7767.23
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        2532.77
+       Petrol      Baitalpur   Bhairahawa       2867.23
+       Petrol      Mughalsarai Bhairahawa         32.77
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   11 40985148.15   395672.95
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       17200.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        3500.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      10700.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        6610.90
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        3689.10
+       Petrol      Baitalpur   Bhairahawa       1710.90
+       Petrol      Mughalsarai Bhairahawa       1189.10
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   12 41064935.07   394192.84
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       17200.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        3500.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      10700.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        5454.56
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        4845.44
+       Petrol      Baitalpur   Bhairahawa        554.56
+       Petrol      Mughalsarai Bhairahawa       2345.44
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   13 41145048.94   392712.74
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       17200.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        3500.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      10700.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       5200.00
+       Diesel      Gonda       Nepalgunj       15300.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        4293.49
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu         606.51
+       Petrol      Mughalsarai Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   14 41231430.83   391232.63
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       16588.40
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        4111.60
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa      10088.40
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       5811.60
+       Diesel      Gonda       Nepalgunj       14688.40
+       Diesel      Banthara    Nepalgunj         611.60
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        3600.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu        1300.00
+       Petrol      Mughalsarai Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   15 41326580.45   389752.53
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar        700.00
+       Diesel      Barauni     Biratnagar      18700.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       15078.09
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        5621.91
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa       8578.09
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       7321.91
+       Diesel      Gonda       Nepalgunj       13178.09
+       Diesel      Banthara    Nepalgunj        2121.91
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        3600.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu        1300.00
+       Petrol      Mughalsarai Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   16 41541406.42   388272.42
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Biratnagar         57.81
+       Diesel      Siliguri    Kathmandu         642.19
+       Diesel      Barauni     Biratnagar      19342.19
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       13757.81
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        6300.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa       7900.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       8000.00
+       Diesel      Gonda       Nepalgunj       12500.00
+       Diesel      Banthara    Nepalgunj        2800.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       4500.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        3600.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        4000.00
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu        1300.00
+       Petrol      Mughalsarai Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   17 42029143.98   386792.32
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Kathmandu         700.00
+       Diesel      Barauni     Biratnagar      19400.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       13700.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        6300.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa       7900.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       8000.00
+       Diesel      Gonda       Nepalgunj       12500.00
+       Diesel      Banthara    Nepalgunj        2800.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       2825.38
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        5274.62
+       Petrol      Raxaul      Biratnagar       1674.62
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu        2325.38
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu        1300.00
+       Petrol      Mughalsarai Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   18 42526036.47   385312.21
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Kathmandu         700.00
+       Diesel      Barauni     Biratnagar      19400.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       13700.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2500.00
+       Diesel      Baitalpur   Kathmandu        6300.00
+       Diesel      Baitalpur   Pokhara          3300.00
+       Diesel      Baitalpur   Bhairahawa       7900.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       8000.00
+       Diesel      Gonda       Nepalgunj       12500.00
+       Diesel      Banthara    Nepalgunj        2800.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Biratnagar       1063.35
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7036.65
+       Petrol      Raxaul      Biratnagar       3436.65
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Kathmandu         563.35
+       Petrol      Raxaul      Pokhara          2200.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu        1300.00
+       Petrol      Mughalsarai Bhairahawa       2900.00
+       Petrol      Gonda       Bhairahawa       1700.00
+       Petrol      Gonda       Nepalgunj        3100.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   19 43397452.63   383832.11
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Kathmandu         700.00
+       Diesel      Barauni     Biratnagar      19400.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu       13700.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Pokhara          2107.02
+       Diesel      Raxaul      Bhairahawa        392.98
+       Diesel      Baitalpur   Kathmandu        6300.00
+       Diesel      Baitalpur   Pokhara          3692.98
+       Diesel      Baitalpur   Bhairahawa       7507.02
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       8000.00
+       Diesel      Gonda       Nepalgunj       12500.00
+       Diesel      Banthara    Nepalgunj        2800.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Biratnagar       1300.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7300.00
+       Petrol      Raxaul      Biratnagar       4500.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Bhairahawa       1700.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu        1600.00
+       Petrol      Mughalsarai Pokhara          2200.00
+       Petrol      Mughalsarai Bhairahawa        400.00
+       Petrol      Gonda       Bhairahawa       2500.00
+       Petrol      Gonda       Nepalgunj        2300.00
+       Petrol      Banthara    Nepalgunj         800.00
+       Petrol      Banthara    Dhangadhi        1400.00
+   20 45658000.00   382352.00
+     quantity
+       Diesel      Siliguri    Charali          7100.00
+       Diesel      Siliguri    Kathmandu         700.00
+       Diesel      Barauni     Biratnagar      19400.00
+       Diesel      Barauni     Janakpur         6100.00
+       Diesel      Barauni     Kathmandu        8300.00
+       Diesel      Barauni     Bhairahawa       5400.00
+       Diesel      Raxaul      Birgunj          8700.00
+       Diesel      Raxaul      Amlekhgunj      35200.00
+       Diesel      Raxaul      Bhairahawa       2500.00
+       Diesel      Baitalpur   Kathmandu       11700.00
+       Diesel      Baitalpur   Pokhara          5800.00
+       Diesel      Mughalsarai Bhairahawa       4200.00
+       Diesel      Gonda       Bhairahawa       8000.00
+       Diesel      Gonda       Nepalgunj       12500.00
+       Diesel      Banthara    Nepalgunj        2800.00
+       Diesel      Banthara    Dhangadhi        7100.00
+       Petrol      Siliguri    Charali          2300.00
+       Petrol      Siliguri    Kathmandu        1300.00
+       Petrol      Barauni     Janakpur         2300.00
+       Petrol      Barauni     Kathmandu        7300.00
+       Petrol      Raxaul      Biratnagar       5800.00
+       Petrol      Raxaul      Birgunj          1800.00
+       Petrol      Raxaul      Amlekhgunj       6800.00
+       Petrol      Raxaul      Bhairahawa        400.00
+       Petrol      Baitalpur   Kathmandu        5400.00
+       Petrol      Mughalsarai Kathmandu         300.00
+       Petrol      Mughalsarai Pokhara          2200.00
+       Petrol      Mughalsarai Bhairahawa       1700.00
+       Petrol      Gonda       Bhairahawa       2500.00
+       Petrol      Gonda       Nepalgunj        2300.00
+       Petrol      Banthara    Nepalgunj         800.00
+       Petrol      Banthara    Dhangadhi        1400.00
+
+Infeasibilities =     0
+Elapsed time:       0.14 seconds

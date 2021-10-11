@@ -1,4 +1,3 @@
-# multi-objective-analysis-petroleum-transportation
 From my thesis-cum-paper: "A multi-objective analysis of a petroleum transportation network under uncertainty"
 
 Thesis abstract:\

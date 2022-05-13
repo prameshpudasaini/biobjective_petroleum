@@ -6,7 +6,3 @@ In this study, multi-objective models, based on deterministic and stochastic app
 Thesis publisher: Department of Civil Engineering, Pulchowk Campus, Institute of Engineering, Tribhuvan University\
 Paper authors: Pramesh Pudasaini, Jagat Kumar Shrestha, Rui Borges Lopes\
 Journal: International Journal of Logistics Systems and Management\
-Journal publisher: Inderscience\
-Paper status: In press
-
-README last updated: July 20, 2021
